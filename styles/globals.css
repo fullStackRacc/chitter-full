@@ -22,4 +22,8 @@
     hover:bg-opacity-5 flex items-center justify-center
     rounded-full transition ease-out;
   }
+
+  .tag {
+    @apply text-chitter-base font-normal hover:underline cursor-pointer
+  }
 }

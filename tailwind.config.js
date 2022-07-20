@@ -9,7 +9,7 @@ module.exports = {
       colors: {
         "chitter-base": "#7f50f5",
         "chitter-light": "#9f6bff",
-        "chitter-black": "#121212",
+        "chitter-black": "#000000",
         "chitter-dark": "#7349de",
         "chitter-darker": "#492e8f",
         "chitter-darkest": "#140c29",
